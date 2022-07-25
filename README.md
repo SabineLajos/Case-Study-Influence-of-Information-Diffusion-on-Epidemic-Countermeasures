@@ -8,13 +8,13 @@ The course of the COVID-19 pandemic is often modelled mathematically using SIR-l
 - picewise_coupled_params.txt: output parameters of Piecwise_coupled_fit.ipynb
 - Picewise_coupled_fit_and_estimation_with_holdout_timepoints.ipynb: Fit parameters on split data and evaluate performance on hold out data
 - Dependency_on_data.ipynb: Repetitively perturb data and fit parameters; boxplots of resulting parameter distributions
-
+- Parameter_sitivity.ipynb: Simulation with perturbed parameters, calculation of sensitivity measures and visualization
 
 - R0.ipynb: Calculation of $R_0$ and plots of $R_C$
 - 00 Bundeslaender Gesamt.xlsx: RKI data Excel
 - Matlab.m: Solve non-linear equation system of the information diffusion model for parameters
 
 Left to do:
-- Parameter_sitivity.ipynb: Simulation with perturbed parameters, calculation of sensitivity measures and visualization
+
 - .csv: Output of Parameter_sensitivity.ipynb
 - check matlab scripts
