@@ -12,9 +12,7 @@ The course of the COVID-19 pandemic is often modelled mathematically using SIR-l
 
 - R0.ipynb: Calculation of $R_0$ and plots of $R_C$
 - 00 Bundeslaender Gesamt.xlsx: RKI data Excel
-- Matlab.m: Solve non-linear equation system of the information diffusion model for parameters
+- MATLAB: Solve non-linear equation system of the information diffusion model for parameters
 
 Left to do:
-
 - .csv: Output of Parameter_sensitivity.ipynb
-- check matlab scripts
